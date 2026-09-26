@@ -45,6 +45,7 @@ Projects include:
 - Sentinel Stockpile
 - Project Kiva
 - Wildfire Response Gaps
+- 🦎 [ANOLE-WATCH](https://github.com/bdgroves/Anole-watch) – Island evolution of Guadeloupe's anole lizards · [read the story](https://bdgroves.github.io/Anole-watch/)
 
 ---
 
