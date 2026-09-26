@@ -46,7 +46,7 @@ Projects include:
 - Project Kiva
 - Wildfire Response Gaps
 - 🦎 [ANOLE-WATCH](https://github.com/bdgroves/Anole-watch) – Island evolution of Guadeloupe's anole lizards · [read the story](https://bdgroves.github.io/Anole-watch/)
-- 🌳 [CYPRESS-DOME-WATCH](https://github.com/bdgroves/cypress-dome-watch) – Finding Florida's cypress domes in LiDAR canopy height (🌱 just started)
+- 🌳 [CYPRESS-DOME-WATCH](https://github.com/bdgroves/cypress-dome-watch) – Finding Florida's cypress domes in LiDAR canopy height · [project page](https://brooksgroves.com/cypress-dome-watch/) (🌱 just started)
 
 ---
 
