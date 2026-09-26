@@ -47,6 +47,9 @@ Projects include:
 - Wildfire Response Gaps
 - 🦎 [ANOLE-WATCH](https://github.com/bdgroves/Anole-watch) – Island evolution of Guadeloupe's anole lizards · [read the story](https://bdgroves.github.io/Anole-watch/)
 - 🌳 [CYPRESS-DOME-WATCH](https://github.com/bdgroves/cypress-dome-watch) – Finding Florida's cypress domes in LiDAR canopy height · [project page](https://brooksgroves.com/cypress-dome-watch/) (🌱 just started)
+- 🌫️ [FOG-WATCH](https://github.com/bdgroves/fog-watch) – Where the fog lives: Namib, Atacama and California fog climatology · [project page](https://brooksgroves.com/fog-watch/)
+- 🦌 [MIGRATION-WATCH](https://github.com/bdgroves/migration-watch) – Following the green wave with Western ungulate corridors (🌱 just started)
+- 🐝 [BEE-NAV](https://github.com/bdgroves/bee-nav) – Honeybee-inspired drone navigation experiments (🌱 just started)
 
 ---
 
