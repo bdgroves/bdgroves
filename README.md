@@ -27,11 +27,14 @@ Building real-time monitoring dashboards and decision-support tools for natural 
 
 Current projects include:
 
-- 🌋 PELE – Kīlauea eruption monitoring
-- 🌎 aftershock – Pacific Northwest earthquake dashboard
-- 🌧️ lahar-watch – Volcanic lahar monitoring
-- 🏔️ rainier-snowpack – Mt. Rainier snowpack dashboard
-- 💧 sierra-streamflow – Sierra Nevada streamflow monitoring
+- 🌋 [PELE](https://brooksgroves.com/PELE/) – Kīlauea eruption monitoring
+- 🌍 [AFTERSHOCK](https://brooksgroves.com/aftershock/) – Real-time U.S. seismic monitor from USGS feeds
+- 🌧️ [lahar-watch](https://brooksgroves.com/lahar-watch/) – Mt. Rainier lahar sensor dashboard
+- 🏔️ [rainier-snowpack](https://brooksgroves.com/rainier-snowpack/) – Mt. Rainier snowpack from SNOTEL and MODIS
+- 💧 [sierra-streamflow](https://brooksgroves.com/sierra-streamflow/) – Sierra Nevada streamflow vs. the 20-year record
+- 🔥 [peavine-watch](https://brooksgroves.com/peavine-watch/) – What the Hawk Fire did to Peavine Mountain, from satellite imagery
+- 🔥 [Wildfire Response Gaps](https://brooksgroves.com/wildfire-response-gaps/) – How far West Coast fires burn from the nearest fire station
+- 🌪️ [Sierra Alert Bot](https://github.com/bdgroves/sierra-alert-bot) · [NWS Alert Bot](https://github.com/bdgroves/nws-alert-bot) – Automated hazard alerts for the Sierra and the Pacific Northwest
 
 ---
 
@@ -41,11 +44,12 @@ Applying AI, satellite imagery, LiDAR, and computer vision to geospatial problem
 
 Projects include:
 
-- GeoAI Nevada Hillside Letters
-- Sentinel Stockpile
-- Project Kiva
-- Wildfire Response Gaps
-- 🦎 [ANOLE-WATCH](https://github.com/bdgroves/Anole-watch) – Island evolution of Guadeloupe's anole lizards · [read the story](https://bdgroves.github.io/Anole-watch/)
+- 🔤 [GeoAI Nevada Hillside Letters](https://github.com/bdgroves/geoai-nevada-hillside-letters) – Detecting hillside letters in NAIP imagery
+- 🪵 [Sentinel Stockpile](https://github.com/bdgroves/sentinel-stockpile) – The Pacific Northwest lumber economy, seen from space
+- 🏛️ [Project Kiva](https://brooksgroves.com/project-kiva/) – Reading Chaco Canyon's ground with LiDAR
+- 🌲 [lidar-explore](https://github.com/bdgroves/lidar-explore) – Finding trees in a hundred million LiDAR points
+- 🌊 [PaleoWave](https://github.com/bdgroves/project-paleowave) · 🦣 [IceWave](https://github.com/bdgroves/project-ice-wave) – Random Forest fossil-locality prediction
+- 🦎 [ANOLE-WATCH](https://github.com/bdgroves/Anole-watch) – Island evolution of Guadeloupe's anole lizards · [read the story](https://brooksgroves.com/Anole-watch/)
 - 🌳 [CYPRESS-DOME-WATCH](https://github.com/bdgroves/cypress-dome-watch) – Finding Florida's cypress domes in LiDAR canopy height · [project page](https://brooksgroves.com/cypress-dome-watch/) (🌱 just started)
 - 🌫️ [FOG-WATCH](https://github.com/bdgroves/fog-watch) – Where the fog lives: Namib, Atacama and California fog climatology · [project page](https://brooksgroves.com/fog-watch/)
 - 🦌 [MIGRATION-WATCH](https://github.com/bdgroves/migration-watch) – Following the green wave with Western ungulate corridors (🌱 just started)
@@ -72,15 +76,18 @@ Current areas include:
 
 Exploring the intersection of climate, hydrology, ecology, weather, and geospatial analytics.
 
-Topics include:
+Projects include:
 
-- Watersheds
-- Snowpack
-- Streamflow
-- Weather
-- Wildfire
-- Ecology
-- Climate
+- 🔵 [secchi](https://brooksgroves.com/secchi/) – A modern Secchi disk for Lake Tahoe: 11 million observations from an undocumented sensor network
+- 🏔️ [ALPINE-WATCH](https://brooksgroves.com/Alpine-watch/) – Water-quality watch on 13 high-elevation lakes in the Sierra and Cascades
+- 🌨️ [CASCADIA-WX](https://brooksgroves.com/cascadia-wx/) – FORTRAN mountain-weather analysis from Pacific Northwest SNOTEL stations
+- 🌪️ [Weather Station](https://brooksgroves.com/weather-station/) · [Weather Intelligence](https://brooksgroves.com/weather-report-bot/) – Automated weather dashboards and twice-daily reports
+- 📟 [sierra-flow-cobol](https://brooksgroves.com/sierra-flow-cobol/) – 850 lines of COBOL reading live USGS discharge
+- 🏞️ [streamchaser](https://github.com/bdgroves/streamchaser) – Reading the Tuolumne River from Groveland
+- 🐾 [DIPODOMYS](https://brooksgroves.com/dipodomys/) – A data portrait of Death Valley's kangaroo rats
+- ☀️ [SOLSTICE](https://brooksgroves.com/solstice/) – Chaco Canyon archaeoastronomy, updated twice daily
+- 🧗 [Ridgeline](https://brooksgroves.com/ridgeline/) – Search-and-rescue calls at Phoenix's wildland-urban interface
+- 🍺 [HopLore](https://brooksgroves.com/hoplore/) – An open hop-cultivar database that shows every source's number
 
 ---
 
